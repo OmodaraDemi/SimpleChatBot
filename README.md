@@ -1,7 +1,7 @@
 # SimpleChatBot
 A simple ecommerece chatbot hat simulate a digital shopping assistant's capabilities. Each function corresponds to a specific task, such as making purchases, ordering items, completing purchases, initiating orders, querying order status, revoking orders, exploring categories, activating discounts, and fetching shipping details.
 
-##Test User Prompts
+**Test User Prompts**
 1. make_purchase
 
 "I'd like to buy a MacBook Air, please."
