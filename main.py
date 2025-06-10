@@ -2,7 +2,7 @@
 import requests
 import json
 from openai import OpenAI
-from functions import (
+from function import (
     make_purchase, order_items, complete_purchase, initiate_order, query_order_status, revoke_order,
     explore_category, activate_discount, fetch_shipping_details
 )
